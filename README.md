@@ -36,7 +36,6 @@ I am a software engineer from Spain.
 **📫 Reach me at:**<br>
 
 [![Linkedin: Daniel Serrano Cobos](https://img.shields.io/badge/-Daniel%20Serrano%20Cobos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-serrano-cobos/)](https://www.linkedin.com/in/daniel-serrano-cobos/)
-<a href="https://instagram.com/_mohitp_" target="_blank"><img src="https://img.shields.io/badge/@_mohitp98_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Twitter: Daniel Serrano Cobos](https://img.shields.io/twitter/follow/d_serranoc?style=social)](https://twitter.com/d_serranoc)
 [![GitHub: Daniel Serrano Cobos](https://img.shields.io/github/followers/theroxd4n?label=Daniel%20Serrano%20Cobos&style=social)](https://github.com//theroxd4n)
 
