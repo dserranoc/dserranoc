@@ -43,3 +43,8 @@ I am a student of software engineer in Spain.
 
 </div>  
 
+
+**📊 My stats:**
+
+[![TheRoxD4N's github stats](https://github-readme-stats.vercel.app/api?username=theroxd4n)](https://github.com/theroxd4n)
+
