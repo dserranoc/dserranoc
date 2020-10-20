@@ -1,10 +1,8 @@
-<h2>WORK IN PROGRESS</h2>
-
 <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
 
 
 <p align="center">
-I am a software engineer from Spain. 
+I am a student of software engineer in Spain.
 </p>
 
 
