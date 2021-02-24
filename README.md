@@ -35,7 +35,7 @@ I am a student of software engineer in Spain.
 
 [![Linkedin: Daniel Serrano Cobos](https://img.shields.io/badge/-Daniel%20Serrano%20Cobos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-serrano-cobos/)](https://www.linkedin.com/in/daniel-serrano-cobos/)
 [![Twitter: Daniel Serrano Cobos](https://img.shields.io/twitter/follow/d_serranoc?style=social)](https://twitter.com/d_serranoc)
-[![GitHub: Daniel Serrano Cobos](https://img.shields.io/github/followers/theroxd4n?label=Daniel%20Serrano%20Cobos&style=social)](https://github.com//theroxd4n)
+[![GitHub: Daniel Serrano Cobos](https://img.shields.io/github/followers/dserranoc?label=Daniel%20Serrano%20Cobos&style=social)](https://github.com//dserranoc)
 
 <div align="center">
 
