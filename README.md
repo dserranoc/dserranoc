@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
 
 
@@ -29,7 +31,6 @@ I am a student of software engineer in Spain.
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 
-<div align="center">
 
 **📫 Reach me at:**<br>
 
@@ -37,14 +38,12 @@ I am a student of software engineer in Spain.
 [![Twitter: Daniel Serrano Cobos](https://img.shields.io/twitter/follow/d_serranoc?style=social)](https://twitter.com/d_serranoc)
 [![GitHub: Daniel Serrano Cobos](https://img.shields.io/github/followers/dserranoc?label=Daniel%20Serrano%20Cobos&style=social)](https://github.com//dserranoc)
 
-<div align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=theroxd4n.visitor-badge)
-
-</div>  
 
 
 **📊 My stats:**
 
 [![Daniel Serrano's github stats](https://github-readme-stats.vercel.app/api?username=dserranoc)](https://github.com/dserranoc)
 
+</div>
