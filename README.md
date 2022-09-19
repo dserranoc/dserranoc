@@ -4,7 +4,7 @@
 
 
 <p align="center">
-I am a student of software engineer in Spain.
+I am a software engineer based in Spain.
 </p>
 
 
